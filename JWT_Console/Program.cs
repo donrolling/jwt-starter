@@ -10,7 +10,8 @@ namespace JWT_Console {
             var token = authService.Login(username, password);
             Console.WriteLine(token); 
             var stuff = authService.ReadToken(token);
-            Console.WriteLine(stuff); 
+            Console.WriteLine(stuff);
+			Console.ReadLine();
         }
     }
 }
