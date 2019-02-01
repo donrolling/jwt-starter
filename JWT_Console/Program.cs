@@ -1,5 +1,5 @@
-﻿using System; 
-using JSON_Web_Tokens; 
+﻿using jwt.services;
+using System; 
 
 namespace JWT_Console {
     public class Program {

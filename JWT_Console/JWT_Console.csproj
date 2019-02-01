@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JSON_Web_Tokens\JSON_Web_Tokens.csproj" />
+    <ProjectReference Include="..\JSON_Web_Tokens\jwt.services.csproj" />
   </ItemGroup>
 
 </Project>

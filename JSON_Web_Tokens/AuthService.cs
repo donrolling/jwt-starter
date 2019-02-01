@@ -5,7 +5,7 @@ using JWT.Serializers;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace JSON_Web_Tokens {
+namespace jwt.services {
 	public class AuthService {
 		//get a secret:
 		//var hmac = new System.Security.Cryptography.HMACSHA256();
